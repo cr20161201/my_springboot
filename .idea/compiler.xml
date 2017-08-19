@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_boot_helloworld" />
+        <module name="springboot-hellword" />
+        <module name="springboot-restful" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="helloworld" target="1.5" />
+      <module name="spring_boot_helloworld" target="1.5" />
+      <module name="springboot-hellword" target="1.6" />
+      <module name="springboot-restful" target="1.6" />
+      <module name="springbootrestful" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
