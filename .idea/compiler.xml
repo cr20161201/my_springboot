@@ -6,15 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spingboot-rabbitmq-producer" />
         <module name="spring_boot_helloworld" />
+        <module name="springboot-dubbo-client" />
+        <module name="springboot-dubbo-server" />
         <module name="springboot-hellword" />
+        <module name="springboot-rabbitmq" />
         <module name="springboot-restful" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="helloworld" target="1.5" />
+      <module name="spingboot-rabbitmq-producer" target="1.5" />
       <module name="spring_boot_helloworld" target="1.5" />
+      <module name="springboot-dubbo-client" target="1.6" />
+      <module name="springboot-dubbo-server" target="1.6" />
       <module name="springboot-hellword" target="1.6" />
+      <module name="springboot-rabbitmq" target="1.6" />
       <module name="springboot-restful" target="1.6" />
       <module name="springbootrestful" target="1.5" />
     </bytecodeTargetLevel>

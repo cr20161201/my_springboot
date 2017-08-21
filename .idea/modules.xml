@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/my_springboot.iml" filepath="$PROJECT_DIR$/my_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-client/springboot-dubbo-client.iml" filepath="$PROJECT_DIR$/springboot-dubbo-client/springboot-dubbo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-server/springboot-dubbo-server.iml" filepath="$PROJECT_DIR$/springboot-dubbo-server/springboot-dubbo-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-hellword/springboot-hellword.iml" filepath="$PROJECT_DIR$/springboot-hellword/springboot-hellword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-restful/springboot-restful.iml" filepath="$PROJECT_DIR$/springboot-restful/springboot-restful.iml" />
     </modules>
   </component>

@@ -6,6 +6,9 @@
         <option value="$PROJECT_DIR$/spring_boot_helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-hellword/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-dubbo-server/pom.xml" />
       </list>
     </option>
   </component>
